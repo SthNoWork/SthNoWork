@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello There! 👋
 
-<!--
-**SthNoWork/SthNoWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rith**, a current **Software Engineering student 🎓** in **Cambodia 🇰🇭**.  
 
-Here are some ideas to get you started:
+I do things when I'm told… or when deadlines arrive 😅,  
+but I always get them done on time! ✅  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Currently Studying
+**Back-end:** C++, Python, Java  
+**Front-end / Design:** Wireframe, Figma, HTML, CSS  
+
+---
+
+## ⚡ About My Repositories
+Repositories here are mostly for **school submissions**.  
+The pro? You can just submit the link and finish the assignment later 😉  
+
+---
+
+## 🛠 Skills
+- **Programming Languages:** C++, Python, Java  
+- **Front-end / Design:** HTML, CSS, Figma, Wireframe  
+- **Other Tools:** Git, GitHub, VS Code  
+
+---
+
+## 🎮 Fun Facts About Me
+- 🐱 I like cats  
+- ☕ I do **not** like coffee (yet… maybe someday 😆)  
+- 📚 Hobbies: Reading / Watching anime, manhwa, manga  
+
+---
